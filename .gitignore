@@ -1,0 +1,7 @@
+# 安装包与归档通过 GitHub Release 分发，不进入 Git 历史。
+build/
+*.dmg
+*.zip
+*.log
+*.tmp
+.DS_Store
