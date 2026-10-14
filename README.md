@@ -32,3 +32,5 @@ shasum -a 256 "AudioLoop-0.2.0-macOS-arm64.dmg"
 两个镜像均已验证架构、签名、macOS 14.2 部署目标和安装入口。上述检查不代表所有硬件与系统版本的功能验收。
 
 AudioLoop 内置 LAME 3.100；LAME 许可证原文见 [LICENSES/COPYING.LAME](LICENSES/COPYING.LAME)，应用资源内同时保留许可证。
+
+应用源码见 [MRongM/audioloop-macos](https://github.com/MRongM/audioloop-macos)。
